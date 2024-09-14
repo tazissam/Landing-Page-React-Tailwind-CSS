@@ -1,4 +1,3 @@
-import React from 'react'
 import { pricingOptions } from '../constants'
 import { CheckCircle } from 'lucide-react'
 const MOST_POPULAR = 'Pro'
